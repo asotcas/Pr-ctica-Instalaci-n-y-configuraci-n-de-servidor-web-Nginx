@@ -18,7 +18,8 @@
 
 
 # Práctica 2.2: Autenticación en Nginx
-Este documento detalla los pasos realizados durante la práctica de configuración de Nginx, incluyendo autenticación básica, restricción de acceso por IP, y combinación de ambas. Al final del documento, se proporcionan capturas de pantalla relevantes.
+Este documento detalla los pasos realizados durante la práctica de configuración de Nginx, incluyendo autenticación básica, restricción de acceso por IP, y combinación de ambas. 
+
 ![primera captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Autenticación\1.PNG)
  ![segunda captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Autenticación\2.PNG)
  ![tercera captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Autenticación\3.PNG)
@@ -26,3 +27,11 @@ Este documento detalla los pasos realizados durante la práctica de configuraci�
  ![quinta captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Autenticación\5.PNG)
  ![sexta captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Autenticación\6.PNG)
  ![septima captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Autenticación\7.PNG)
+
+ # Práctica 2.2: Configuración de acceso seguro con Nginx
+Este documento detalla los pasos realizados durante la práctica de configuración de Nginx para habilitar acceso seguro mediante certificados SSL/TLS, autenticación básica y restricción de acceso por IP. 
+
+![primera captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Acceso_seguro\1.PNG)
+ ![segunda captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Acceso_seguro\2.PNG)
+ ![tercera captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Acceso_seguro\3.PNG)
+ ![cuarta captura](Pr-ctica-Instalaci-n-y-configuraci-n-de-servidor-web-Nginx\capturas_Acceso_seguro\4.PNG)
